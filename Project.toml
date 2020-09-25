@@ -1,6 +1,6 @@
 name = "mpv_jll"
 uuid = "3b7eb3ab-5558-5250-ad56-7cbe1b8a43e3"
-version = "0.32.0+0"
+version = "0.32.0+1"
 
 [deps]
 Libglvnd_jll = "7e76a0d4-f3c7-5321-8279-8d96eeed0f29"
