@@ -1,123 +1,123 @@
 [[mpv]]
 arch = "aarch64"
-git-tree-sha1 = "8d9bbd888220142e8765a22a8276e1230a8ff98f"
+git-tree-sha1 = "6b6c40fe44a6cf8af6f72497aa8ac6557643092f"
 os = "macos"
 
     [[mpv.download]]
-    sha256 = "681d3603b56d15b5b862ed7c6124aac6a043c666c33c72a14eaf18a241522679"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "f8ef6680682b7d088c91c0a020e05e2d8171e232cfa333d7f91188c1de9f61e5"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.aarch64-apple-darwin.tar.gz"
 [[mpv]]
 arch = "aarch64"
-git-tree-sha1 = "659af15f850aa42ce2e494d7794c7d2e6a31957e"
+git-tree-sha1 = "d08c9867112aa80bd04697fe49b913d8367f5a4f"
 libc = "glibc"
 os = "linux"
 
     [[mpv.download]]
-    sha256 = "45a5cdd8b3f873de46d77b133ab419b12a6bd46ce4e170c9942bf7b7df15af94"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "a21336ff14b2345a9b1c13ba4f38ba1068961099d90f34d7ff9a6ee2354487de"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.aarch64-linux-gnu.tar.gz"
 [[mpv]]
 arch = "aarch64"
-git-tree-sha1 = "328dfa091ebc45dfcb7443847615142e767cdffa"
+git-tree-sha1 = "7d2e0142bc97382ac99f8e1ac2b41c4faa85288c"
 libc = "musl"
 os = "linux"
 
     [[mpv.download]]
-    sha256 = "213b8c4912776bb8996db235876e2bc4bdecd2eb747d9cca6f06c83f9d163b43"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.aarch64-linux-musl.tar.gz"
+    sha256 = "a98c8c5aa3693e1d71f067c85639908e0ff8bd4458f0b02988a0c52913e2ac53"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.aarch64-linux-musl.tar.gz"
 [[mpv]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "82c2567059a6a69829a037018a68269033b111a7"
+git-tree-sha1 = "d30a8ce79e3d46bf4a27dc2bb41723de521248bc"
 libc = "glibc"
 os = "linux"
 
     [[mpv.download]]
-    sha256 = "c150eb44a3ce159adf21ea60f80bd73abe725135f6152bf1f3129adf8f3f62f0"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "1315101bd0a2f5e6f4ee31e38f02fe35b1d63970308d3e77d24574158bed9313"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.armv7l-linux-gnueabihf.tar.gz"
 [[mpv]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "44cab41a7d4a0315c29368c90eaf22ace5bf826d"
+git-tree-sha1 = "045d0db97562f3fb7303370f7180605f23217849"
 libc = "musl"
 os = "linux"
 
     [[mpv.download]]
-    sha256 = "6e66e214e8b390a63c2c4b6cdf4adb400406db8e4c1427942c91329102b9c5ad"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "ba50089a28540a73a29c362a305cfe2799e5405b9cca6181f9e75228660e3ed1"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.armv7l-linux-musleabihf.tar.gz"
 [[mpv]]
 arch = "i686"
-git-tree-sha1 = "21538aafecb54dc210c6d74ce13183293910f455"
+git-tree-sha1 = "189014de7127e635473e63ff2ff420bd9c3a7259"
 libc = "glibc"
 os = "linux"
 
     [[mpv.download]]
-    sha256 = "9e3ba0ca46e2563a50dd12aca44414d183e64c3263a156adece85ebdc5f9de8a"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.i686-linux-gnu.tar.gz"
+    sha256 = "b280a143718eb55d9076e60c2a2732b1a21158e80f1181d503000241cf1cddf3"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.i686-linux-gnu.tar.gz"
 [[mpv]]
 arch = "i686"
-git-tree-sha1 = "e9d26c20d38aae839157ec3f6662d5963dcd8aa4"
+git-tree-sha1 = "d14124f3ee32f96dbdf962567128dc16e3168472"
 libc = "musl"
 os = "linux"
 
     [[mpv.download]]
-    sha256 = "d2c2a8647e21132cf07ca22475a995a0c0ec0fd0aec18abaa2a30bbbe9dbdd0c"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.i686-linux-musl.tar.gz"
+    sha256 = "8e65d13ca632d06843e7b18f298f877ada5655393f7e236e91a7c9e8d3968080"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.i686-linux-musl.tar.gz"
 [[mpv]]
 arch = "i686"
-git-tree-sha1 = "9756e123c1a75ade79bb693aa78bb9af0d4f74a6"
+git-tree-sha1 = "c6fc5aa5eeffafe366e00cd142699e568e60f40c"
 os = "windows"
 
     [[mpv.download]]
-    sha256 = "ed082205f37074ed1545eb0490da036774581fa7ae1d1f7993e591d5027816f8"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.i686-w64-mingw32.tar.gz"
+    sha256 = "d03d030027147a3e376684c802e8bede4370625aff159c7487e2be7c7cf60024"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.i686-w64-mingw32.tar.gz"
 [[mpv]]
 arch = "powerpc64le"
-git-tree-sha1 = "084a702c33581c1539dab91e7d464564acd1e999"
+git-tree-sha1 = "4d32d727e818c58b25996c0a03ccdd6ccde2e55a"
 libc = "glibc"
 os = "linux"
 
     [[mpv.download]]
-    sha256 = "2add40281f576dad8c273e690c2eb65bb479b05e0f5ebe07cf53f3b737ac3bcb"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "ed67e91967915937c38149b900f96629662d8cecb2c6efc275449f468df98a67"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.powerpc64le-linux-gnu.tar.gz"
 [[mpv]]
 arch = "x86_64"
-git-tree-sha1 = "84a1d16517dc787b07116cda4b847615f023c6fe"
+git-tree-sha1 = "d1acf9a94526ed453cfca0c4f68284ae5c024759"
 os = "macos"
 
     [[mpv.download]]
-    sha256 = "4b6d46f0086eabe6ea5fa34872f408f18bc4f7fa841d57734efff0272cc37ed1"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "445bc8c0173391769b69068709b5871ef090629bfa62f9e8dfe62487f173a31d"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.x86_64-apple-darwin.tar.gz"
 [[mpv]]
 arch = "x86_64"
-git-tree-sha1 = "3338cf6d0858fecbb182578eba7fb65f4add216b"
+git-tree-sha1 = "2b2ab7df1247599fac2b8f63f30c4c38e1047a2c"
 libc = "glibc"
 os = "linux"
 
     [[mpv.download]]
-    sha256 = "84dc36bff26aca0680a92645689580138d6d27be94bfc9d6dce6a033b571b693"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "65b8481fbff205ee9476abecbd4979bfaf57208bd18b4bcdc606f95ce3274c39"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.x86_64-linux-gnu.tar.gz"
 [[mpv]]
 arch = "x86_64"
-git-tree-sha1 = "8d85771e0972fb8f2399ca8d85a0c09d01f63d8c"
+git-tree-sha1 = "06d114b38203ee06f201c60396f5676741f38aa7"
 libc = "musl"
 os = "linux"
 
     [[mpv.download]]
-    sha256 = "5fa8f9aa226fd92cee8f96678984198c51906e5e611b8a1801a34946a45aac84"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.x86_64-linux-musl.tar.gz"
+    sha256 = "e5be9be03a37c8ab5a03d521adea4d75fc7a74d8772bd0ad5d27ebdc03171001"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.x86_64-linux-musl.tar.gz"
 [[mpv]]
 arch = "x86_64"
-git-tree-sha1 = "4de362b7d901a1b4adc74ffcb118c69765ba18df"
+git-tree-sha1 = "8e61062f505b447c56ffc947bfb35d8c140505e8"
 os = "freebsd"
 
     [[mpv.download]]
-    sha256 = "b21af2e7c3a35fef10c2ddddbca7a8a1bb75735c11c9aec378583e5bc4843d7e"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "4b98524ff2c58ae6dabb32d67699756cda581449601486112b1a8df9f7647ed8"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.x86_64-unknown-freebsd.tar.gz"
 [[mpv]]
 arch = "x86_64"
-git-tree-sha1 = "019eea3145392433e4b64e5d252faafd435f4d6b"
+git-tree-sha1 = "597d6391b09543233b60489c1c7883fd78ae41da"
 os = "windows"
 
     [[mpv.download]]
-    sha256 = "7b6da804bec2c392d7927f89bd10b1ac1bbfd3fadc75429b384154ebcffdd193"
-    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+0/mpv.v0.41.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "dcd1f2ebdba5aaef64b2abbcbcda023c20bfd4e54fd9e8c957553ae53c96fd6e"
+    url = "https://github.com/JuliaBinaryWrappers/mpv_jll.jl/releases/download/mpv-v0.41.0+1/mpv.v0.41.0.x86_64-w64-mingw32.tar.gz"

@@ -3,6 +3,7 @@ export mpv
 
 using Libiconv_jll
 using SDL2_jll
+using Shaderc_jll
 using Zlib_jll
 using FFMPEG_jll
 using Lua_jll
@@ -14,7 +15,7 @@ using Xorg_libX11_jll
 JLLWrappers.@generate_wrapper_header("mpv")
 JLLWrappers.@declare_executable_product(mpv)
 function __init__()
-    JLLWrappers.@generate_init_header(Libiconv_jll, SDL2_jll, Zlib_jll, FFMPEG_jll, Lua_jll, JpegTurbo_jll, Xorg_libXrandr_jll, Xorg_libXinerama_jll, Libglvnd_jll, Xorg_libX11_jll)
+    JLLWrappers.@generate_init_header(Libiconv_jll, SDL2_jll, Shaderc_jll, Zlib_jll, FFMPEG_jll, Lua_jll, JpegTurbo_jll, Xorg_libXrandr_jll, Xorg_libXinerama_jll, Libglvnd_jll, Xorg_libX11_jll)
     JLLWrappers.@init_executable_product(
         mpv,
         "bin\\mpv.exe",
