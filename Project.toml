@@ -21,7 +21,7 @@ libass_jll = "0ac62f75-1d6f-5e53-bd7c-93b484bb37c0"
 
 [compat]
 Libdl = "< 0.0.1, 1"
-julia = "1.6"
+julia = "1.10"
 JLLWrappers = "1.7.0"
 Artifacts = "< 0.0.1, 1"
 FFMPEG_jll = "9.0.0"
